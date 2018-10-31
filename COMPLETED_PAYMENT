@@ -1,0 +1,12 @@
+
+COMPLETED_PAYMENT
+  Event Triggers
+    Mobile
+      User successfully connects a valid payment to their account	
+    Dotcom
+      User successfully connects a valid payment to their account	
+    10ft
+      User successfully connects a valid payment to their account	
+  Engagement Properties
+    payment_method
+    referring_page
