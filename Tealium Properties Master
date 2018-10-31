@@ -1,0 +1,22 @@
+ENGAGEMENT PROPERTIES
+  
+  Property Name	
+    Type
+    Format
+    Example
+    Notes
+    
+  content_id
+    string
+    pull from meta-data
+    12345
+    content_id is used to associate marketing campaigns with user behavior
+    
+  gateway_cta
+    string
+    "start free trial", "login", "explore", "restore_purchase"
+    explore
+    When a user clicks on a cta on the gateway sceen, this property records the cta that was clicked.
+
+
+
